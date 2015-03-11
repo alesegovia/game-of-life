@@ -1,4 +1,4 @@
-Conway\'s Game of Life
+Conway's Game of Life
 ======================
 
 CUDA 2.0 implementation of Conway's Game of Life.
@@ -20,7 +20,7 @@ According to Wikipedia:
 Rationale
 =========
 
-The fact that we can process each cell\'s next state in parallel, independent of its neighbours, makes this problem very suitable for implementation on a GPU.
+The fact that we can process each cell's next state in parallel, independent of its neighbours, makes this problem very suitable for implementation on a GPU.
 
 This program shows how to run the Game of Life on NVIDIA GPUs using CUDA 2.0.
 
